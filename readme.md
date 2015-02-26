@@ -1,5 +1,7 @@
 # mui
 
+# obsolete! do not use it.
+
 a ui framework for mobile webview app
 
 ## doc
